@@ -1,0 +1,3 @@
+test_large_file.zip
+.git/lfs_chunks/test_large_file.zip.part00
+.git/lfs_chunks/test_large_file.zip.part01
